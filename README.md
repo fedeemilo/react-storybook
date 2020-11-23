@@ -9,7 +9,7 @@ up a complex dev stack, force certain data into your database, or navigate aroun
 ### Install
 Use the Storybook CLI to install it in a single command. Run this inside your existing project’s root directory:
 
-```
+```terminal
 npx sb init
 ```
 
